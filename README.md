@@ -1,4 +1,4 @@
-# Máster en Business Analytics y Data Science 2017
+# Máster en Business Analytics y Data Science 
 
 # Módulo de Nivelación
 
